@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Roger-de-Paula
+- 👀 I’m interested in Web Development
+- 🌱 I’m currently learning Code
+- 💞️ I’m looking to collaborate on Web Development Projects
