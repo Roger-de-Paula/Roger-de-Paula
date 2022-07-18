@@ -1,12 +1,6 @@
 ### Hello World, I'm Roger de Paula, nice to meet you 👋
 
 I'm a front-end developer, but soon I will be a fullstack developer.
-
-<div align="center">
-  <a href="https://github.com/Roger-de-Paula">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Roger-de-Paula&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RogerdePaula&layout=compact&langs_count=7&theme=dark"/>
-</div>
   
   ##
   
