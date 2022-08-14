@@ -1,6 +1,6 @@
 ### Hello World, I'm Roger de Paula, nice to meet you 👋
 
-I'm a front-end developer, but soon I will be a fullstack developer.
+I'm a fullstack developer.
   
   ##
   
