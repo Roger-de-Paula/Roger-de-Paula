@@ -1,6 +1,6 @@
 ### Hello World, I'm Roger de Paula, nice to meet you 👋
 
-I'm a fullstack developer.
+I'm a developer always looking for learning and improving my skills
   
   ##
   
